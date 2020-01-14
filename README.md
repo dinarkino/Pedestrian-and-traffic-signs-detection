@@ -12,10 +12,10 @@ Detection non-maxima suppression (without/with)
 Detection mistakes
 ![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/det-mist.JPG)
 
-Pedestrian detection
+Pedestrian detection<br>
 ![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/ped-detection.JPG)
 
-![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/gif_ppl.mp4)
+![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/gif_ppl.gif)
 
 
 

@@ -9,6 +9,15 @@ Implementation of pedestrian and traffic signs detection using HOG + SVM with no
 Detection non-maxima suppression (without/with)
 ![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/det-non-maxima-suppr.JPG)
 
+Detection mistakes
+![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/det-mist.JPG)
+
+Pedestrian detection
+![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/ped-detection.JPG)
+
+![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/gif_ppl.mp4)
+
+
 
 
 

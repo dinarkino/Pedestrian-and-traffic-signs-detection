@@ -23,7 +23,7 @@ Final pedestrian detection<br>
 </p>
 
 Faster R-CNN for pedestrian detection
-![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/frcnn.JPG)
+<img width="600" height="400" src="https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/frcnn.JPG">
 
 
 

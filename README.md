@@ -13,7 +13,8 @@ Detection mistakes
 ![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/det-mist.JPG)
 
 Final traffic signs detection
-![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/sgn_gif.gif)
+<p align="center">
+![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/sgn_gif.gif)</p>
 
 Final pedestrian detection<br>
 ![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/gif_ppl.gif)

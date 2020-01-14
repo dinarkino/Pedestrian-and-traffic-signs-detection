@@ -14,7 +14,8 @@ Detection mistakes
 
 Final traffic signs detection
 <p align="center">
-![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/sgn_gif.gif)</p>
+  <img width="460" height="300" src="https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/sgn_gif.gif">
+</p>
 
 Final pedestrian detection<br>
 ![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/gif_ppl.gif)

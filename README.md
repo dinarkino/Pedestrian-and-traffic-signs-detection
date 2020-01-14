@@ -10,7 +10,9 @@ Detection non-maxima suppression (without/with)
 ![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/det-non-maxima-suppr.JPG)
 
 Detection mistakes
-![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/det-mist.JPG)
+<p align="center">
+  <img width="800" height="500" src="https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/det-mist.JPG">
+</p>
 
 Final traffic signs detection
 <p align="center">
@@ -23,8 +25,9 @@ Final pedestrian detection<br>
 </p>
 
 Faster R-CNN for pedestrian detection
-<img width="600" height="400" src="https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/frcnn.JPG">
-
+<p align="center">
+  <img width="600" height="400" src="https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/frcnn.JPG">
+</p>
 
 
 

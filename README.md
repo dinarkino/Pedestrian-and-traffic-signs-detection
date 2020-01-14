@@ -18,7 +18,9 @@ Final traffic signs detection
 </p>
 
 Final pedestrian detection<br>
-![Image](https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/gif_ppl.gif)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/dinarkino/Pedestrian-and-traffic-signs-detection/blob/master/images/gif_ppl.gif">
+</p>
 
 
 
